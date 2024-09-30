@@ -46,7 +46,6 @@ I'm diving deep into **Machine Learning** and using this space to share my journ
 
 If you're into Machine Learning too or have interesting ideas to share, feel free to reach out:
 - **Email**: workmy.chd@gmail.com
-- **LinkedIn**: [LinkedIn Profile](#)
 
 Of Course it look like that I am prasing of my own journey! 😄
 
